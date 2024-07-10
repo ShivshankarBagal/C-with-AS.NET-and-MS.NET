@@ -1,0 +1,8 @@
+D:\LearnC#\Day3\Day3\bin\Debug\Day3.exe.config
+D:\LearnC#\Day3\Day3\bin\Debug\Day3.exe
+D:\LearnC#\Day3\Day3\bin\Debug\Day3.pdb
+D:\LearnC#\Day3\Day3\obj\Debug\Day3.csproj.AssemblyReference.cache
+D:\LearnC#\Day3\Day3\obj\Debug\Day3.csproj.SuggestedBindingRedirects.cache
+D:\LearnC#\Day3\Day3\obj\Debug\Day3.csproj.CoreCompileInputs.cache
+D:\LearnC#\Day3\Day3\obj\Debug\Day3.exe
+D:\LearnC#\Day3\Day3\obj\Debug\Day3.pdb

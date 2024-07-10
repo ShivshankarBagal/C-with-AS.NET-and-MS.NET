@@ -1,0 +1,8 @@
+D:\LearnC#\Day1\BasicClassConcepts\bin\Debug\BasicClassConcepts.exe.config
+D:\LearnC#\Day1\BasicClassConcepts\bin\Debug\BasicClassConcepts.exe
+D:\LearnC#\Day1\BasicClassConcepts\bin\Debug\BasicClassConcepts.pdb
+D:\LearnC#\Day1\BasicClassConcepts\obj\Debug\BasicClassConcepts.csproj.AssemblyReference.cache
+D:\LearnC#\Day1\BasicClassConcepts\obj\Debug\BasicClassConcepts.csproj.SuggestedBindingRedirects.cache
+D:\LearnC#\Day1\BasicClassConcepts\obj\Debug\BasicClassConcepts.csproj.CoreCompileInputs.cache
+D:\LearnC#\Day1\BasicClassConcepts\obj\Debug\BasicClassConcepts.exe
+D:\LearnC#\Day1\BasicClassConcepts\obj\Debug\BasicClassConcepts.pdb
