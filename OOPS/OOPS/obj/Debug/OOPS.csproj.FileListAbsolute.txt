@@ -1,0 +1,8 @@
+D:\LearnC#\OOPS\OOPS\bin\Debug\OOPS.exe.config
+D:\LearnC#\OOPS\OOPS\bin\Debug\OOPS.exe
+D:\LearnC#\OOPS\OOPS\bin\Debug\OOPS.pdb
+D:\LearnC#\OOPS\OOPS\obj\Debug\OOPS.csproj.AssemblyReference.cache
+D:\LearnC#\OOPS\OOPS\obj\Debug\OOPS.csproj.SuggestedBindingRedirects.cache
+D:\LearnC#\OOPS\OOPS\obj\Debug\OOPS.csproj.CoreCompileInputs.cache
+D:\LearnC#\OOPS\OOPS\obj\Debug\OOPS.exe
+D:\LearnC#\OOPS\OOPS\obj\Debug\OOPS.pdb
